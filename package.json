@@ -13,7 +13,7 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/material": "^7.3.9",
-    "@mui/x-data-grid-premium": "^8.0.0",
+    "@mui/x-data-grid-premium": "https://pkg.pr.new/mui/mui-x/@mui/x-data-grid-premium@ce1926f",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
